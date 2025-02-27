@@ -13,7 +13,7 @@ This project focuses on designing a **lightweight ResNet** for CIFAR-10.
 ## 🛠 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/lightweight-resnet-cifar10.git
+git clone https://github.com/esong4/lightweight-resnet-cifar10.git
 cd lightweight-resnet-cifar10
 pip install -r requirements.txt
 
